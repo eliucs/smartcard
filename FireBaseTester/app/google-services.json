@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "151029549193",
+    "firebase_url": "https://keyring-b58ee.firebaseio.com",
+    "project_id": "keyring-b58ee",
+    "storage_bucket": "keyring-b58ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151029549193:android:5882f4e69659baec",
+        "android_client_info": {
+          "package_name": "com.internationalmoneygetters.jeevand.firebasetester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151029549193-37k706oihcr0rr26d38rt9jlg8sk8ntc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIjQi7NKaANyqolQMNtHE-CTVYljR7ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
