@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="title"> Test</string>
+    <string name="description">Lorem ipsum...</string>
+</resources>
