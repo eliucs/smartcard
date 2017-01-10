@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Keyring</string>
+    <string name="card_name">Card Name</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="barcode_format">Barcode Format</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="submit">Add This Card</string>
+    <string name="empty">You have no cards.\nClick + to add more.</string>
+    <string-array name="barcode_format_array">
+        <item>CODE-128</item>
+        <item>PDF417</item>
+        <item>EAN8</item>
+        <item>UPC-A</item>
+    </string-array>
+</resources>
