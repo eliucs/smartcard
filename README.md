@@ -1,2 +1,2 @@
-# KeyRing
-Pings the users' location to provide the relevant cards to make purchases on an Android Wear device.
+# Smartcard
+An Android app that tracks the user's location using Firebase and sends the barcodes for the relevant cards to their Android Wear.
